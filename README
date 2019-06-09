@@ -1,0 +1,10 @@
+Files lists:
+DataVisualizer.py - This file includes implementations which intends to get plots about data for researching.
+DataEditor - This file includes implementation of the methods which edits the data.
+KNN.py - This file includes implementation of KNN.
+DecisionTree.py - This file includes implementation of Decision Tree.
+TrainModel.py - This file includes implementations of the training of the models.
+classifier.py - This file includes an implementation of classifier which uses the entire files.
+
+README.txt
+USERS.txt
